@@ -1,4 +1,4 @@
-# Excel_for_Data_Analytics
+# Excel for Data Analytics
  
 Projects demonstrating my Excel skills for data analytics are listed below.
 
